@@ -1,0 +1,1 @@
+/workspaces/injkt/.venv/bin/python -m pip install -e .
