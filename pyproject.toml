@@ -1,0 +1,18 @@
+[project]
+name = "injkt"
+version = "0.0.1"
+authors = [
+  { name="ConnorW", email="connor@connor33341.dev" },
+]
+description = "Library/Plugin Injection"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "License :: OSI Approved :: MIT License",
+]
+
+[project.urls]
+Homepage = "https://github.com/pypa/sampleproject"
+Issues = "https://github.com/pypa/sampleproject/issues"
